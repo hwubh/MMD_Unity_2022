@@ -1,0 +1,6 @@
+# ignore everything (dirs, files, sub-dirs, sub-files)
+/*
+!/Assets
+!/Packages
+!/ProjectSettings
+!*.gitignore
